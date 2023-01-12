@@ -61,32 +61,21 @@ After you're finished please remove all the comments and instructions!
 # 📖 hello-microverse <a name="about-project"></a>
 
 
-hello-microverse is a simple project.
+hello-microverse is a simple project for beginners. It explains how we should properly make our project.
 
-## 🛠 Built With <a name="built-with">HTML</a>
-
-### Tech Stack <a name="tech-stack">CSS</a>
+## 🛠 Built With <a name="built-with"></a>
+-html
+-css
+### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+    <li><a href="https://reactjs.org/">CSS</a></li>
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 
 ### Key Features <a name="key-features"></a>
@@ -113,7 +102,9 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
- gem install rails
+-Install Git
+-Install NPM
+-Install a code editor
 
 <!--
 Example command:
@@ -126,7 +117,8 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
-git clone git@github.com:myaccount/my-project.git
+git clone github.com/Muhammad0602/hello-microverse
+
 
 <!--
 Example commands:
@@ -137,24 +129,10 @@ Example commands:
 ```
 --->
 
-### Install
-
-Install this project with:
- gem install
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
 
 To run the project, execute the following command:
- rails server
+ open the project by launching the Live Server plugging in visual studio code(or your code editor) 
 
 <!--
 Example command:
@@ -164,30 +142,7 @@ Example command:
 ```
 --->
 
-### Run tests
 
-To run tests, run the following command:
-bin/rails test test/models/article_test.rb
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -241,19 +196,7 @@ I would like to thank everyone who helped me to finish this project, without who
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
